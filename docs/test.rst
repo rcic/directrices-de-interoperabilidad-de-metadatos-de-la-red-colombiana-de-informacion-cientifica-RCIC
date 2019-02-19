@@ -1,5 +1,5 @@
-Directrices de interoperabilidad de metadatos de la red colombiana de información científica - RCIC
-===================================================================================================
+Primeros pasos
+==============
 
 Documenta
 
