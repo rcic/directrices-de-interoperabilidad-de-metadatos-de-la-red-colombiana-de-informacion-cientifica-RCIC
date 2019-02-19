@@ -9,8 +9,8 @@ Prueba de documentación
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   :test: Test:
 
+   test
 
 
 Indices and tables
